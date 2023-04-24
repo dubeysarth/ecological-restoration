@@ -1,0 +1,798 @@
+2021-01-28 14:47:06
+S = 100, A = 0.25, C = 0.15
+0.13954374481240153 : Syn_Data/M_PL_100_2_0/M_PL_100_2_0-Data_one.pkl
+0.15323864853320518 : Syn_Data/M_PL_100_2_1/M_PL_100_2_1-Data_one.pkl
+0.17201286317331094 : Syn_Data/M_PL_100_2_2/M_PL_100_2_2-Data_one.pkl
+S = 100, A = 0.25, C = 0.2
+0.18062133876269085 : Syn_Data/M_PL_100_3_0/M_PL_100_3_0-Data_one.pkl
+0.20107886444916848 : Syn_Data/M_PL_100_3_1/M_PL_100_3_1-Data_one.pkl
+0.2230855739406638 : Syn_Data/M_PL_100_3_2/M_PL_100_3_2-Data_one.pkl
+S = 100, A = 0.5, C = 0.1
+0.08585119699577531 : Syn_Data/M_PL_100_5_0/M_PL_100_5_0-Data_one.pkl
+0.10140259318791629 : Syn_Data/M_PL_100_5_1/M_PL_100_5_1-Data_one.pkl
+0.11714523053515385 : Syn_Data/M_PL_100_5_2/M_PL_100_5_2-Data_one.pkl
+S = 100, A = 0.5, C = 0.15
+0.12956183607881308 : Syn_Data/M_PL_100_6_0/M_PL_100_6_0-Data_one.pkl
+0.1516554831724602 : Syn_Data/M_PL_100_6_1/M_PL_100_6_1-Data_one.pkl
+0.17175956674861384 : Syn_Data/M_PL_100_6_2/M_PL_100_6_2-Data_one.pkl
+S = 100, A = 0.5, C = 0.2
+0.1748537228437974 : Syn_Data/M_PL_100_7_0/M_PL_100_7_0-Data_one.pkl
+0.19660999715039404 : Syn_Data/M_PL_100_7_1/M_PL_100_7_1-Data_one.pkl
+0.21999256231836706 : Syn_Data/M_PL_100_7_2/M_PL_100_7_2-Data_one.pkl
+S = 100, A = 0.75, C = 0.05
+0.035414165666266505 : Syn_Data/M_PL_100_8_0/M_PL_100_8_0-Data_one.pkl
+0.04238362011471255 : Syn_Data/M_PL_100_8_1/M_PL_100_8_1-Data_one.pkl
+0.051874082966519935 : Syn_Data/M_PL_100_8_2/M_PL_100_8_2-Data_one.pkl
+S = 100, A = 0.75, C = 0.1
+0.08592960993921378 : Syn_Data/M_PL_100_9_0/M_PL_100_9_0-Data_one.pkl
+0.10012719373463672 : Syn_Data/M_PL_100_9_1/M_PL_100_9_1-Data_one.pkl
+0.12234278992982472 : Syn_Data/M_PL_100_9_2/M_PL_100_9_2-Data_one.pkl
+S = 100, A = 0.75, C = 0.15
+0.1304093787587185 : Syn_Data/M_PL_100_10_0/M_PL_100_10_0-Data_one.pkl
+0.1493532333568348 : Syn_Data/M_PL_100_10_1/M_PL_100_10_1-Data_one.pkl
+0.1680040481060889 : Syn_Data/M_PL_100_10_2/M_PL_100_10_2-Data_one.pkl
+S = 100, A = 0.75, C = 0.2
+0.17496387055210583 : Syn_Data/M_PL_100_11_0/M_PL_100_11_0-Data_one.pkl
+0.19337305351711115 : Syn_Data/M_PL_100_11_1/M_PL_100_11_1-Data_one.pkl
+0.2185815673810872 : Syn_Data/M_PL_100_11_2/M_PL_100_11_2-Data_one.pkl
+S = 150, A = 0.25, C = 0.1
+0.09858503945632657 : Syn_Data/M_PL_150_13_0/M_PL_150_13_0-Data_one.pkl
+0.10755945997530154 : Syn_Data/M_PL_150_13_1/M_PL_150_13_1-Data_one.pkl
+0.1165104480497608 : Syn_Data/M_PL_150_13_2/M_PL_150_13_2-Data_one.pkl
+S = 150, A = 0.25, C = 0.15
+0.14218925096516127 : Syn_Data/M_PL_150_14_0/M_PL_150_14_0-Data_one.pkl
+0.15483193534590056 : Syn_Data/M_PL_150_14_1/M_PL_150_14_1-Data_one.pkl
+0.16735698235874902 : Syn_Data/M_PL_150_14_2/M_PL_150_14_2-Data_one.pkl
+S = 150, A = 0.25, C = 0.2
+0.18408424828492534 : Syn_Data/M_PL_150_15_0/M_PL_150_15_0-Data_one.pkl
+0.19933429596815516 : Syn_Data/M_PL_150_15_1/M_PL_150_15_1-Data_one.pkl
+0.21763106028985318 : Syn_Data/M_PL_150_15_2/M_PL_150_15_2-Data_one.pkl
+S = 150, A = 0.5, C = 0.05
+0.045610950453055715 : Syn_Data/M_PL_150_16_0/M_PL_150_16_0-Data_one.pkl
+0.048967032967032954 : Syn_Data/M_PL_150_16_1/M_PL_150_16_1-Data_one.pkl
+0.05727446822183663 : Syn_Data/M_PL_150_16_2/M_PL_150_16_2-Data_one.pkl
+S = 150, A = 0.5, C = 0.1
+0.09482762356851425 : Syn_Data/M_PL_150_17_0/M_PL_150_17_0-Data_one.pkl
+0.10367654882229782 : Syn_Data/M_PL_150_17_1/M_PL_150_17_1-Data_one.pkl
+0.11643901892080032 : Syn_Data/M_PL_150_17_2/M_PL_150_17_2-Data_one.pkl
+S = 150, A = 0.5, C = 0.15
+0.1398244748014117 : Syn_Data/M_PL_150_18_0/M_PL_150_18_0-Data_one.pkl
+0.15044417895326007 : Syn_Data/M_PL_150_18_1/M_PL_150_18_1-Data_one.pkl
+0.16124318350469313 : Syn_Data/M_PL_150_18_2/M_PL_150_18_2-Data_one.pkl
+S = 150, A = 0.5, C = 0.2
+0.17999102280933957 : Syn_Data/M_PL_150_19_0/M_PL_150_19_0-Data_one.pkl
+0.19414391594575778 : Syn_Data/M_PL_150_19_1/M_PL_150_19_1-Data_one.pkl
+0.2080207330201255 : Syn_Data/M_PL_150_19_2/M_PL_150_19_2-Data_one.pkl
+S = 150, A = 0.75, C = 0.05
+0.04229454786675735 : Syn_Data/M_PL_150_20_0/M_PL_150_20_0-Data_one.pkl
+0.04915442812639074 : Syn_Data/M_PL_150_20_1/M_PL_150_20_1-Data_one.pkl
+0.05783959325221889 : Syn_Data/M_PL_150_20_2/M_PL_150_20_2-Data_one.pkl
+S = 150, A = 0.75, C = 0.1
+0.0911933591399294 : Syn_Data/M_PL_150_21_0/M_PL_150_21_0-Data_one.pkl
+0.10182728427746943 : Syn_Data/M_PL_150_21_1/M_PL_150_21_1-Data_one.pkl
+0.11321146623121585 : Syn_Data/M_PL_150_21_2/M_PL_150_21_2-Data_one.pkl
+S = 150, A = 0.75, C = 0.15
+0.1358530318376336 : Syn_Data/M_PL_150_22_0/M_PL_150_22_0-Data_one.pkl
+0.14855885827832885 : Syn_Data/M_PL_150_22_1/M_PL_150_22_1-Data_one.pkl
+0.1603389169668207 : Syn_Data/M_PL_150_22_2/M_PL_150_22_2-Data_one.pkl
+S = 150, A = 0.75, C = 0.2
+0.17329233823310744 : Syn_Data/M_PL_150_23_0/M_PL_150_23_0-Data_one.pkl
+0.19190231273298236 : Syn_Data/M_PL_150_23_1/M_PL_150_23_1-Data_one.pkl
+0.20503095113977268 : Syn_Data/M_PL_150_23_2/M_PL_150_23_2-Data_one.pkl
+S = 200, A = 0.25, C = 0.1
+0.09966167748211764 : Syn_Data/M_PL_200_25_0/M_PL_200_25_0-Data_one.pkl
+0.10536434380988043 : Syn_Data/M_PL_200_25_1/M_PL_200_25_1-Data_one.pkl
+0.11520903471413296 : Syn_Data/M_PL_200_25_2/M_PL_200_25_2-Data_one.pkl
+S = 200, A = 0.25, C = 0.15
+0.14287660129726915 : Syn_Data/M_PL_200_26_0/M_PL_200_26_0-Data_one.pkl
+0.15325884984169255 : Syn_Data/M_PL_200_26_1/M_PL_200_26_1-Data_one.pkl
+0.16313632818693313 : Syn_Data/M_PL_200_26_2/M_PL_200_26_2-Data_one.pkl
+S = 200, A = 0.25, C = 0.2
+0.18568460764256936 : Syn_Data/M_PL_200_27_0/M_PL_200_27_0-Data_one.pkl
+0.19694532454852984 : Syn_Data/M_PL_200_27_1/M_PL_200_27_1-Data_one.pkl
+0.20772890932910248 : Syn_Data/M_PL_200_27_2/M_PL_200_27_2-Data_one.pkl
+S = 200, A = 0.5, C = 0.05
+0.04788253096333904 : Syn_Data/M_PL_200_28_0/M_PL_200_28_0-Data_one.pkl
+0.05205465205465205 : Syn_Data/M_PL_200_28_1/M_PL_200_28_1-Data_one.pkl
+0.056123734911613696 : Syn_Data/M_PL_200_28_2/M_PL_200_28_2-Data_one.pkl
+S = 200, A = 0.5, C = 0.1
+0.09502217232460847 : Syn_Data/M_PL_200_29_0/M_PL_200_29_0-Data_one.pkl
+0.10293032799912744 : Syn_Data/M_PL_200_29_1/M_PL_200_29_1-Data_one.pkl
+0.11089926681641038 : Syn_Data/M_PL_200_29_2/M_PL_200_29_2-Data_one.pkl
+S = 200, A = 0.5, C = 0.15
+0.14085662376232297 : Syn_Data/M_PL_200_30_0/M_PL_200_30_0-Data_one.pkl
+0.14910525882331366 : Syn_Data/M_PL_200_30_1/M_PL_200_30_1-Data_one.pkl
+0.15670603272319805 : Syn_Data/M_PL_200_30_2/M_PL_200_30_2-Data_one.pkl
+S = 200, A = 0.5, C = 0.2
+0.1820860498652653 : Syn_Data/M_PL_200_31_0/M_PL_200_31_0-Data_one.pkl
+0.19212351990426735 : Syn_Data/M_PL_200_31_1/M_PL_200_31_1-Data_one.pkl
+0.20203589547437417 : Syn_Data/M_PL_200_31_2/M_PL_200_31_2-Data_one.pkl
+S = 200, A = 0.75, C = 0.05
+0.04494857306366815 : Syn_Data/M_PL_200_32_0/M_PL_200_32_0-Data_one.pkl
+0.05113171490201996 : Syn_Data/M_PL_200_32_1/M_PL_200_32_1-Data_one.pkl
+0.056993811787789596 : Syn_Data/M_PL_200_32_2/M_PL_200_32_2-Data_one.pkl
+S = 200, A = 0.75, C = 0.1
+0.09447591280000155 : Syn_Data/M_PL_200_33_0/M_PL_200_33_0-Data_one.pkl
+0.10155562326172994 : Syn_Data/M_PL_200_33_1/M_PL_200_33_1-Data_one.pkl
+0.11045929513015457 : Syn_Data/M_PL_200_33_2/M_PL_200_33_2-Data_one.pkl
+S = 200, A = 0.75, C = 0.15
+0.13817729592255812 : Syn_Data/M_PL_200_34_0/M_PL_200_34_0-Data_one.pkl
+0.14759748516871862 : Syn_Data/M_PL_200_34_1/M_PL_200_34_1-Data_one.pkl
+0.15605394232764921 : Syn_Data/M_PL_200_34_2/M_PL_200_34_2-Data_one.pkl
+S = 200, A = 0.75, C = 0.2
+0.18088355977983991 : Syn_Data/M_PL_200_35_0/M_PL_200_35_0-Data_one.pkl
+0.19074791058945184 : Syn_Data/M_PL_200_35_1/M_PL_200_35_1-Data_one.pkl
+0.20090498408130403 : Syn_Data/M_PL_200_35_2/M_PL_200_35_2-Data_one.pkl
+.......Segment 02.........
+Ensembles: 10
+Fraction: [0 1 2 3 4 5 6 7 8]
+M_PL_150_18_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_16_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_7_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_35_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_16_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_5_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_19_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_31_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_8_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_29_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_15_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_9_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_19_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_35_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_15_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_18_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_14_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_2_0: 800 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_32_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_21_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_8_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_20_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_17_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_32_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_26_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_21_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_10_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_30_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_21_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_6_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_27_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_25_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_9_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_7_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_17_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_22_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_23_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_34_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_25_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_32_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_14_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_28_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_33_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_27_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_20_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_34_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_7_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_2_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_19_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_28_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_29_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_31_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_34_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_13_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_30_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_11_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_15_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_28_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_10_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_30_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_22_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_31_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_11_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_17_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_35_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_26_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_9_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_22_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_20_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_2_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_5_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_13_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_18_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_5_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_8_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_16_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_25_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_23_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_6_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_26_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_11_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_23_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_13_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_33_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_3_1: 801 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_29_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_27_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_200_33_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_3_0: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_3_2: 807 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_150_14_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_10_2: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+M_PL_100_6_1: 810 Combinations; Time passed: 0 hour: 0 min: 1 sec
+
+
+
+
+
+2021-01-28 17:54:24
+Network ID: M_PL_100_10_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 0 hour: 41 min: 18 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 3 min: 22 sec
+Random Restoration: .....Time passed: 0 hour: 3 min: 29 sec
+Network ID: M_PL_100_10_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 0 hour: 39 min: 15 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 3 min: 25 sec
+Random Restoration: .....Time passed: 0 hour: 3 min: 17 sec
+Network ID: M_PL_100_10_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 0 hour: 45 min: 17 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 4 min: 11 sec
+Random Restoration: .....Time passed: 0 hour: 3 min: 57 sec
+Network ID: M_PL_100_11_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 0 hour: 49 min: 1 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 4 min: 8 sec
+Random Restoration: .....Time passed: 0 hour: 4 min: 10 sec
+Network ID: M_PL_100_11_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 0 hour: 49 min: 42 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 4 min: 8 sec
+Random Restoration: .....Time passed: 0 hour: 4 min: 17 sec
+Network ID: M_PL_100_11_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 0 hour: 47 min: 17 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 4 min: 12 sec
+Random Restoration: .....Time passed: 0 hour: 4 min: 4 sec
+Network ID: M_PL_100_2_0
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 2 hour: 19 min: 9 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 11 min: 5 sec
+Random Restoration: .....Time passed: 0 hour: 9 min: 57 sec
+Network ID: M_PL_100_2_1
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 1 hour: 49 min: 1 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 11 min: 40 sec
+Random Restoration: .....Time passed: 0 hour: 9 min: 14 sec
+Network ID: M_PL_100_2_2
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 2 hour: 42 min: 29 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 11 min: 5 sec
+Random Restoration: .....Time passed: 0 hour: 10 min: 38 sec
+Network ID: M_PL_100_3_0
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 2 hour: 57 min: 1 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 11 min: 37 sec
+Random Restoration: .....Time passed: 0 hour: 11 min: 31 sec
+Network ID: M_PL_100_3_1
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 3 hour: 4 min: 15 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 12 min: 32 sec
+Random Restoration: .....Time passed: 0 hour: 12 min: 14 sec
+Network ID: M_PL_100_3_2
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 3 hour: 9 min: 55 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 12 min: 55 sec
+Random Restoration: .....Time passed: 0 hour: 12 min: 33 sec
+Network ID: M_PL_100_5_0
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 0 hour: 47 min: 24 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 5 min: 38 sec
+Random Restoration: .....Time passed: 0 hour: 4 min: 47 sec
+Network ID: M_PL_100_5_1
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 1 hour: 9 min: 50 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 5 min: 40 sec
+Random Restoration: .....Time passed: 0 hour: 5 min: 21 sec
+Network ID: M_PL_100_5_2
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 1 hour: 3 min: 53 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 5 min: 18 sec
+Random Restoration: .....Time passed: 0 hour: 5 min: 1 sec
+Network ID: M_PL_100_6_0
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 1 hour: 10 min: 50 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 5 min: 52 sec
+Random Restoration: .....Time passed: 0 hour: 5 min: 27 sec
+Network ID: M_PL_100_6_1
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 1 hour: 32 min: 10 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 7 min: 2 sec
+Random Restoration: .....Time passed: 0 hour: 7 min: 3 sec
+Network ID: M_PL_100_6_2
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 1 hour: 28 min: 9 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 6 min: 37 sec
+Random Restoration: .....Time passed: 0 hour: 6 min: 48 sec
+Network ID: M_PL_100_7_0
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 1 hour: 25 min: 32 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 6 min: 23 sec
+Random Restoration: .....Time passed: 0 hour: 6 min: 25 sec
+Network ID: M_PL_100_7_1
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 1 hour: 25 min: 7 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 6 min: 43 sec
+Random Restoration: .....Time passed: 0 hour: 6 min: 37 sec
+Network ID: M_PL_100_7_2
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 1 hour: 50 min: 53 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 8 min: 20 sec
+Random Restoration: .....Time passed: 0 hour: 8 min: 19 sec
+Network ID: M_PL_100_8_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 0 hour: 6 min: 27 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 0 min: 41 sec
+Random Restoration: .....Time passed: 0 hour: 0 min: 34 sec
+Network ID: M_PL_100_8_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 0 hour: 6 min: 36 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 0 min: 41 sec
+Random Restoration: .....Time passed: 0 hour: 0 min: 33 sec
+Network ID: M_PL_100_8_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 0 hour: 6 min: 45 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 0 min: 42 sec
+Random Restoration: .....Time passed: 0 hour: 0 min: 36 sec
+Network ID: M_PL_100_9_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 0 hour: 32 min: 38 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 3 min: 1 sec
+Random Restoration: .....Time passed: 0 hour: 2 min: 50 sec
+Network ID: M_PL_100_9_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 0 hour: 36 min: 14 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 3 min: 14 sec
+Random Restoration: .....Time passed: 0 hour: 3 min: 10 sec
+Network ID: M_PL_100_9_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+System Driven Restoration: .....Time passed: 0 hour: 37 min: 43 sec
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 3 min: 25 sec
+Random Restoration: .....Time passed: 0 hour: 3 min: 13 sec
+
+
+2021-01-30 13:41:31
+Network ID: M_PL_100_10_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 3 min: 38 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 3 min: 59 sec
+Network ID: M_PL_100_10_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 3 min: 38 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 3 min: 54 sec
+Network ID: M_PL_100_10_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 4 min: 25 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 4 min: 53 sec
+Network ID: M_PL_100_11_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 4 min: 18 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 4 min: 42 sec
+Network ID: M_PL_100_11_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 4 min: 15 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 4 min: 48 sec
+Network ID: M_PL_100_11_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 4 min: 18 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 4 min: 47 sec
+Network ID: M_PL_100_2_0
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 11 min: 10 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 11 min: 49 sec
+Network ID: M_PL_100_2_1
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 12 min: 3 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 12 min: 24 sec
+Network ID: M_PL_100_2_2
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 11 min: 54 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 12 min: 22 sec
+Network ID: M_PL_100_3_0
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 11 min: 57 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 12 min: 32 sec
+Network ID: M_PL_100_3_1
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 12 min: 51 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 13 min: 8 sec
+Network ID: M_PL_100_3_2
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 13 min: 26 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 13 min: 53 sec
+Network ID: M_PL_100_5_0
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 5 min: 46 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 6 min: 11 sec
+Network ID: M_PL_100_5_1
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 5 min: 58 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 6 min: 15 sec
+Network ID: M_PL_100_5_2
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 5 min: 44 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 5 min: 50 sec
+Network ID: M_PL_100_6_0
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 6 min: 17 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 6 min: 35 sec
+Network ID: M_PL_100_6_1
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 7 min: 30 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 7 min: 30 sec
+Network ID: M_PL_100_6_2
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 7 min: 0 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 7 min: 14 sec
+Network ID: M_PL_100_7_0
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 6 min: 36 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 7 min: 5 sec
+Network ID: M_PL_100_7_1
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 6 min: 57 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 7 min: 28 sec
+Network ID: M_PL_100_7_2
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 8 min: 25 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 9 min: 3 sec
+Network ID: M_PL_100_8_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 0 min: 51 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 1 min: 1 sec
+Network ID: M_PL_100_8_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 0 min: 50 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 1 min: 1 sec
+Network ID: M_PL_100_8_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 0 min: 53 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 1 min: 6 sec
+Network ID: M_PL_100_9_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 3 min: 9 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 3 min: 31 sec
+Network ID: M_PL_100_9_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 3 min: 23 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 3 min: 44 sec
+Network ID: M_PL_100_9_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 3 min: 34 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 3 min: 54 sec
+
+
+
+
+
+2021-01-30 20:35:39
+.......Solution Averaging.........
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Ensembles Run: [0, 5]
+Network ID: M_PL_100_10_0
+Shape: (57, 43) (100)
+2021-01-30 20:40:40
+.......Solution Averaging.........
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Ensembles Run: [0, 5]
+Network ID: M_PL_100_10_0
+Shape: (57, 43) (100)
+M_PL_100_10_0 ; System_Driven
+M_PL_100_10_0 ; Degree_Driven
+M_PL_100_10_0 ; Closeness_Driven
+M_PL_100_10_0 ; Betweenness_Driven
+M_PL_100_10_0 ; Random
+2021-01-30 20:41:38
+.......Solution Averaging.........
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Ensembles Run: [0, 5]
+Network ID: M_PL_100_10_0
+Shape: (57, 43) (100)
+M_PL_100_10_0 ; System_Driven
+M_PL_100_10_0 ; Degree_Driven
+M_PL_100_10_0 ; Closeness_Driven
+M_PL_100_10_0 ; Betweenness_Driven
+M_PL_100_10_0 ; Random
+Network ID: M_PL_100_10_1
+Shape: (57, 43) (100)
+M_PL_100_10_1 ; System_Driven
+M_PL_100_10_1 ; Degree_Driven
+M_PL_100_10_1 ; Closeness_Driven
+M_PL_100_10_1 ; Betweenness_Driven
+M_PL_100_10_1 ; Random
+Network ID: M_PL_100_10_2
+Shape: (57, 43) (100)
+M_PL_100_10_2 ; System_Driven
+M_PL_100_10_2 ; Degree_Driven
+M_PL_100_10_2 ; Closeness_Driven
+M_PL_100_10_2 ; Betweenness_Driven
+M_PL_100_10_2 ; Random
+Network ID: M_PL_100_11_0
+Shape: (57, 43) (100)
+M_PL_100_11_0 ; System_Driven
+M_PL_100_11_0 ; Degree_Driven
+M_PL_100_11_0 ; Closeness_Driven
+M_PL_100_11_0 ; Betweenness_Driven
+M_PL_100_11_0 ; Random
+Network ID: M_PL_100_11_1
+Shape: (57, 43) (100)
+M_PL_100_11_1 ; System_Driven
+M_PL_100_11_1 ; Degree_Driven
+M_PL_100_11_1 ; Closeness_Driven
+M_PL_100_11_1 ; Betweenness_Driven
+M_PL_100_11_1 ; Random
+Network ID: M_PL_100_11_2
+Shape: (57, 43) (100)
+M_PL_100_11_2 ; System_Driven
+M_PL_100_11_2 ; Degree_Driven
+M_PL_100_11_2 ; Closeness_Driven
+M_PL_100_11_2 ; Betweenness_Driven
+M_PL_100_11_2 ; Random
+Network ID: M_PL_100_2_0
+Shape: (80, 20) (100)
+M_PL_100_2_0 ; System_Driven
+M_PL_100_2_0 ; Degree_Driven
+M_PL_100_2_0 ; Closeness_Driven
+M_PL_100_2_0 ; Betweenness_Driven
+M_PL_100_2_0 ; Random
+Network ID: M_PL_100_2_1
+Shape: (80, 20) (100)
+M_PL_100_2_1 ; System_Driven
+M_PL_100_2_1 ; Degree_Driven
+M_PL_100_2_1 ; Closeness_Driven
+M_PL_100_2_1 ; Betweenness_Driven
+M_PL_100_2_1 ; Random
+Network ID: M_PL_100_2_2
+Shape: (80, 20) (100)
+M_PL_100_2_2 ; System_Driven
+M_PL_100_2_2 ; Degree_Driven
+M_PL_100_2_2 ; Closeness_Driven
+M_PL_100_2_2 ; Betweenness_Driven
+M_PL_100_2_2 ; Random
+Network ID: M_PL_100_3_0
+Shape: (80, 20) (100)
+M_PL_100_3_0 ; System_Driven
+M_PL_100_3_0 ; Degree_Driven
+M_PL_100_3_0 ; Closeness_Driven
+M_PL_100_3_0 ; Betweenness_Driven
+M_PL_100_3_0 ; Random
+Network ID: M_PL_100_3_1
+Shape: (80, 20) (100)
+M_PL_100_3_1 ; System_Driven
+M_PL_100_3_1 ; Degree_Driven
+M_PL_100_3_1 ; Closeness_Driven
+M_PL_100_3_1 ; Betweenness_Driven
+M_PL_100_3_1 ; Random
+Network ID: M_PL_100_3_2
+Shape: (80, 20) (100)
+M_PL_100_3_2 ; System_Driven
+M_PL_100_3_2 ; Degree_Driven
+M_PL_100_3_2 ; Closeness_Driven
+M_PL_100_3_2 ; Betweenness_Driven
+M_PL_100_3_2 ; Random
+Network ID: M_PL_100_5_0
+Shape: (67, 33) (100)
+M_PL_100_5_0 ; System_Driven
+M_PL_100_5_0 ; Degree_Driven
+M_PL_100_5_0 ; Closeness_Driven
+M_PL_100_5_0 ; Betweenness_Driven
+M_PL_100_5_0 ; Random
+Network ID: M_PL_100_5_1
+Shape: (67, 33) (100)
+M_PL_100_5_1 ; System_Driven
+M_PL_100_5_1 ; Degree_Driven
+M_PL_100_5_1 ; Closeness_Driven
+M_PL_100_5_1 ; Betweenness_Driven
+M_PL_100_5_1 ; Random
+Network ID: M_PL_100_5_2
+Shape: (67, 33) (100)
+M_PL_100_5_2 ; System_Driven
+M_PL_100_5_2 ; Degree_Driven
+M_PL_100_5_2 ; Closeness_Driven
+M_PL_100_5_2 ; Betweenness_Driven
+M_PL_100_5_2 ; Random
+Network ID: M_PL_100_6_0
+Shape: (67, 33) (100)
+M_PL_100_6_0 ; System_Driven
+M_PL_100_6_0 ; Degree_Driven
+M_PL_100_6_0 ; Closeness_Driven
+M_PL_100_6_0 ; Betweenness_Driven
+M_PL_100_6_0 ; Random
+Network ID: M_PL_100_6_1
+Shape: (67, 33) (100)
+M_PL_100_6_1 ; System_Driven
+M_PL_100_6_1 ; Degree_Driven
+M_PL_100_6_1 ; Closeness_Driven
+M_PL_100_6_1 ; Betweenness_Driven
+M_PL_100_6_1 ; Random
+Network ID: M_PL_100_6_2
+Shape: (67, 33) (100)
+M_PL_100_6_2 ; System_Driven
+M_PL_100_6_2 ; Degree_Driven
+M_PL_100_6_2 ; Closeness_Driven
+M_PL_100_6_2 ; Betweenness_Driven
+M_PL_100_6_2 ; Random
+Network ID: M_PL_100_7_0
+Shape: (67, 33) (100)
+M_PL_100_7_0 ; System_Driven
+M_PL_100_7_0 ; Degree_Driven
+M_PL_100_7_0 ; Closeness_Driven
+M_PL_100_7_0 ; Betweenness_Driven
+M_PL_100_7_0 ; Random
+Network ID: M_PL_100_7_1
+Shape: (67, 33) (100)
+M_PL_100_7_1 ; System_Driven
+M_PL_100_7_1 ; Degree_Driven
+M_PL_100_7_1 ; Closeness_Driven
+M_PL_100_7_1 ; Betweenness_Driven
+M_PL_100_7_1 ; Random
+Network ID: M_PL_100_7_2
+Shape: (67, 33) (100)
+M_PL_100_7_2 ; System_Driven
+M_PL_100_7_2 ; Degree_Driven
+M_PL_100_7_2 ; Closeness_Driven
+M_PL_100_7_2 ; Betweenness_Driven
+M_PL_100_7_2 ; Random
+Network ID: M_PL_100_8_0
+Shape: (57, 43) (100)
+M_PL_100_8_0 ; System_Driven
+M_PL_100_8_0 ; Degree_Driven
+M_PL_100_8_0 ; Closeness_Driven
+M_PL_100_8_0 ; Betweenness_Driven
+M_PL_100_8_0 ; Random
+Network ID: M_PL_100_8_1
+Shape: (57, 43) (100)
+M_PL_100_8_1 ; System_Driven
+M_PL_100_8_1 ; Degree_Driven
+M_PL_100_8_1 ; Closeness_Driven
+M_PL_100_8_1 ; Betweenness_Driven
+M_PL_100_8_1 ; Random
+Network ID: M_PL_100_8_2
+Shape: (57, 43) (100)
+M_PL_100_8_2 ; System_Driven
+M_PL_100_8_2 ; Degree_Driven
+M_PL_100_8_2 ; Closeness_Driven
+M_PL_100_8_2 ; Betweenness_Driven
+M_PL_100_8_2 ; Random
+Network ID: M_PL_100_9_0
+Shape: (57, 43) (100)
+M_PL_100_9_0 ; System_Driven
+M_PL_100_9_0 ; Degree_Driven
+M_PL_100_9_0 ; Closeness_Driven
+M_PL_100_9_0 ; Betweenness_Driven
+M_PL_100_9_0 ; Random
+Network ID: M_PL_100_9_1
+Shape: (57, 43) (100)
+M_PL_100_9_1 ; System_Driven
+M_PL_100_9_1 ; Degree_Driven
+M_PL_100_9_1 ; Closeness_Driven
+M_PL_100_9_1 ; Betweenness_Driven
+M_PL_100_9_1 ; Random
+Network ID: M_PL_100_9_2
+Shape: (57, 43) (100)
+M_PL_100_9_2 ; System_Driven
+M_PL_100_9_2 ; Degree_Driven
+M_PL_100_9_2 ; Closeness_Driven
+M_PL_100_9_2 ; Betweenness_Driven
+M_PL_100_9_2 ; Random
+
+###################################################

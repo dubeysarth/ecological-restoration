@@ -1,0 +1,629 @@
+2021-01-30 20:59:06
+Network ID: M_PL_100_10_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 0 min: 30 sec
+Random Restoration: .....Time passed: 1 hour: 2 min: 24 sec
+Network ID: M_PL_100_10_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 0 min: 31 sec
+Random Restoration: .....Time passed: 0 hour: 59 min: 55 sec
+Network ID: M_PL_100_10_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 0 min: 14 sec
+Random Restoration: .....Time passed: 1 hour: 1 min: 39 sec
+Network ID: M_PL_100_11_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 57 min: 47 sec
+Random Restoration: .....Time passed: 0 hour: 57 min: 29 sec
+Network ID: M_PL_100_11_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 57 min: 54 sec
+Random Restoration: .....Time passed: 0 hour: 58 min: 57 sec
+Network ID: M_PL_100_11_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 0 min: 33 sec
+Random Restoration: .....Time passed: 1 hour: 1 min: 39 sec
+Network ID: M_PL_100_2_0
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 0 min: 34 sec
+Random Restoration: .....Time passed: 1 hour: 2 min: 1 sec
+Network ID: M_PL_100_2_1
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 59 min: 38 sec
+Random Restoration: .....Time passed: 1 hour: 1 min: 28 sec
+Network ID: M_PL_100_2_2
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 0 min: 14 sec
+Random Restoration: .....Time passed: 1 hour: 2 min: 32 sec
+Network ID: M_PL_100_3_0
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 58 min: 21 sec
+Random Restoration: .....Time passed: 1 hour: 0 min: 35 sec
+Network ID: M_PL_100_3_1
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 59 min: 8 sec
+Random Restoration: .....Time passed: 1 hour: 0 min: 38 sec
+Network ID: M_PL_100_3_2
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 59 min: 47 sec
+Random Restoration: .....Time passed: 0 hour: 59 min: 52 sec
+Network ID: M_PL_100_5_0
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 6 min: 3 sec
+Random Restoration: .....Time passed: 1 hour: 6 min: 34 sec
+Network ID: M_PL_100_5_1
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 9 min: 28 sec
+Random Restoration: .....Time passed: 1 hour: 5 min: 50 sec
+Network ID: M_PL_100_5_2
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 7 min: 6 sec
+Random Restoration: .....Time passed: 1 hour: 8 min: 17 sec
+Network ID: M_PL_100_6_0
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 4 min: 50 sec
+Random Restoration: .....Time passed: 1 hour: 3 min: 17 sec
+Network ID: M_PL_100_6_1
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 5 min: 17 sec
+Random Restoration: .....Time passed: 1 hour: 10 min: 25 sec
+Network ID: M_PL_100_6_2
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 7 min: 17 sec
+Random Restoration: .....Time passed: 1 hour: 10 min: 32 sec
+Network ID: M_PL_100_7_0
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 1 min: 47 sec
+Random Restoration: .....Time passed: 1 hour: 1 min: 51 sec
+Network ID: M_PL_100_7_1
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 3 min: 52 sec
+Random Restoration: .....Time passed: 1 hour: 1 min: 1 sec
+Network ID: M_PL_100_7_2
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 10 min: 10 sec
+Random Restoration: .....Time passed: 1 hour: 12 min: 38 sec
+Network ID: M_PL_100_8_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 43 min: 27 sec
+Random Restoration: .....Time passed: 0 hour: 42 min: 12 sec
+Network ID: M_PL_100_8_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 42 min: 53 sec
+Random Restoration: .....Time passed: 0 hour: 42 min: 38 sec
+Network ID: M_PL_100_8_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 0 hour: 47 min: 0 sec
+Random Restoration: .....Time passed: 0 hour: 45 min: 1 sec
+Network ID: M_PL_100_9_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 4 min: 57 sec
+Random Restoration: .....Time passed: 1 hour: 0 min: 15 sec
+Network ID: M_PL_100_9_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 3 min: 50 sec
+Random Restoration: .....Time passed: 1 hour: 3 min: 52 sec
+Network ID: M_PL_100_9_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 1 hour: 4 min: 16 sec
+Random Restoration: .....Time passed: 1 hour: 1 min: 34 sec
+
+
+2021-02-03 16:41:02
+Network ID: M_PL_100_10_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 1 min: 50 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 0 min: 56 sec
+Network ID: M_PL_100_10_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 59 min: 27 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 0 min: 0 sec
+Network ID: M_PL_100_10_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 1 min: 43 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 0 min: 12 sec
+Network ID: M_PL_100_11_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 58 min: 11 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 57 min: 42 sec
+Network ID: M_PL_100_11_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 58 min: 2 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 57 min: 55 sec
+Network ID: M_PL_100_11_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 1 min: 0 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 59 min: 49 sec
+Network ID: M_PL_100_2_0
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 0 min: 31 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 58 min: 46 sec
+Network ID: M_PL_100_2_1
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 2 min: 27 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 1 min: 41 sec
+Network ID: M_PL_100_2_2
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 0 min: 42 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 1 min: 31 sec
+Network ID: M_PL_100_3_0
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 58 min: 36 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 59 min: 3 sec
+Network ID: M_PL_100_3_1
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 0 min: 6 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 0 min: 48 sec
+Network ID: M_PL_100_3_2
+Shape: (80, 20) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 2 min: 5 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 0 min: 44 sec
+Network ID: M_PL_100_5_0
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 6 min: 6 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 7 min: 11 sec
+Network ID: M_PL_100_5_1
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 8 min: 33 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 11 min: 25 sec
+Network ID: M_PL_100_5_2
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 6 min: 25 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 7 min: 28 sec
+Network ID: M_PL_100_6_0
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 3 min: 32 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 2 min: 1 sec
+Network ID: M_PL_100_6_1
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 4 min: 42 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 7 min: 24 sec
+Network ID: M_PL_100_6_2
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 7 min: 22 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 5 min: 23 sec
+Network ID: M_PL_100_7_0
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 2 min: 36 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 3 min: 47 sec
+Network ID: M_PL_100_7_1
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 3 min: 20 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 3 min: 50 sec
+Network ID: M_PL_100_7_2
+Shape: (67, 33) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 9 min: 39 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 9 min: 44 sec
+Network ID: M_PL_100_8_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 43 min: 20 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 43 min: 44 sec
+Network ID: M_PL_100_8_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 44 min: 38 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 43 min: 5 sec
+Network ID: M_PL_100_8_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 0 hour: 44 min: 21 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 0 hour: 46 min: 38 sec
+Network ID: M_PL_100_9_0
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 5 min: 55 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 7 min: 12 sec
+Network ID: M_PL_100_9_1
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 5 min: 10 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 5 min: 49 sec
+Network ID: M_PL_100_9_2
+Shape: (57, 43) (100)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Closeness Centrality Driven Restoration: .....Time passed: 1 hour: 3 min: 31 sec
+Betweenness Centrality Driven Restoration: .....Time passed: 1 hour: 4 min: 58 sec
+
+
+
+
+2021-02-08 10:19:52
+.......Solution Averaging.........
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Ensembles Run: [0, 5]
+Network ID: M_PL_100_10_0
+Shape: (57, 43) (100)
+M_PL_100_10_0 ; Degree_Driven
+M_PL_100_10_0 ; Closeness_Driven
+M_PL_100_10_0 ; Betweenness_Driven
+M_PL_100_10_0 ; Random
+Network ID: M_PL_100_10_1
+Shape: (57, 43) (100)
+M_PL_100_10_1 ; Degree_Driven
+M_PL_100_10_1 ; Closeness_Driven
+M_PL_100_10_1 ; Betweenness_Driven
+M_PL_100_10_1 ; Random
+Network ID: M_PL_100_10_2
+Shape: (57, 43) (100)
+M_PL_100_10_2 ; Degree_Driven
+M_PL_100_10_2 ; Closeness_Driven
+M_PL_100_10_2 ; Betweenness_Driven
+M_PL_100_10_2 ; Random
+Network ID: M_PL_100_11_0
+Shape: (57, 43) (100)
+M_PL_100_11_0 ; Degree_Driven
+M_PL_100_11_0 ; Closeness_Driven
+M_PL_100_11_0 ; Betweenness_Driven
+M_PL_100_11_0 ; Random
+Network ID: M_PL_100_11_1
+Shape: (57, 43) (100)
+M_PL_100_11_1 ; Degree_Driven
+M_PL_100_11_1 ; Closeness_Driven
+M_PL_100_11_1 ; Betweenness_Driven
+M_PL_100_11_1 ; Random
+Network ID: M_PL_100_11_2
+Shape: (57, 43) (100)
+M_PL_100_11_2 ; Degree_Driven
+M_PL_100_11_2 ; Closeness_Driven
+M_PL_100_11_2 ; Betweenness_Driven
+M_PL_100_11_2 ; Random
+Network ID: M_PL_100_2_0
+Shape: (80, 20) (100)
+M_PL_100_2_0 ; Degree_Driven
+M_PL_100_2_0 ; Closeness_Driven
+M_PL_100_2_0 ; Betweenness_Driven
+M_PL_100_2_0 ; Random
+Network ID: M_PL_100_2_1
+Shape: (80, 20) (100)
+M_PL_100_2_1 ; Degree_Driven
+M_PL_100_2_1 ; Closeness_Driven
+M_PL_100_2_1 ; Betweenness_Driven
+M_PL_100_2_1 ; Random
+Network ID: M_PL_100_2_2
+Shape: (80, 20) (100)
+M_PL_100_2_2 ; Degree_Driven
+M_PL_100_2_2 ; Closeness_Driven
+M_PL_100_2_2 ; Betweenness_Driven
+M_PL_100_2_2 ; Random
+Network ID: M_PL_100_3_0
+Shape: (80, 20) (100)
+M_PL_100_3_0 ; Degree_Driven
+M_PL_100_3_0 ; Closeness_Driven
+M_PL_100_3_0 ; Betweenness_Driven
+M_PL_100_3_0 ; Random
+Network ID: M_PL_100_3_1
+Shape: (80, 20) (100)
+M_PL_100_3_1 ; Degree_Driven
+M_PL_100_3_1 ; Closeness_Driven
+M_PL_100_3_1 ; Betweenness_Driven
+M_PL_100_3_1 ; Random
+Network ID: M_PL_100_3_2
+Shape: (80, 20) (100)
+M_PL_100_3_2 ; Degree_Driven
+M_PL_100_3_2 ; Closeness_Driven
+M_PL_100_3_2 ; Betweenness_Driven
+M_PL_100_3_2 ; Random
+Network ID: M_PL_100_5_0
+Shape: (67, 33) (100)
+M_PL_100_5_0 ; Degree_Driven
+M_PL_100_5_0 ; Closeness_Driven
+M_PL_100_5_0 ; Betweenness_Driven
+M_PL_100_5_0 ; Random
+Network ID: M_PL_100_5_1
+Shape: (67, 33) (100)
+M_PL_100_5_1 ; Degree_Driven
+M_PL_100_5_1 ; Closeness_Driven
+M_PL_100_5_1 ; Betweenness_Driven
+M_PL_100_5_1 ; Random
+Network ID: M_PL_100_5_2
+Shape: (67, 33) (100)
+M_PL_100_5_2 ; Degree_Driven
+M_PL_100_5_2 ; Closeness_Driven
+M_PL_100_5_2 ; Betweenness_Driven
+M_PL_100_5_2 ; Random
+Network ID: M_PL_100_6_0
+Shape: (67, 33) (100)
+M_PL_100_6_0 ; Degree_Driven
+M_PL_100_6_0 ; Closeness_Driven
+M_PL_100_6_0 ; Betweenness_Driven
+M_PL_100_6_0 ; Random
+Network ID: M_PL_100_6_1
+Shape: (67, 33) (100)
+M_PL_100_6_1 ; Degree_Driven
+M_PL_100_6_1 ; Closeness_Driven
+M_PL_100_6_1 ; Betweenness_Driven
+M_PL_100_6_1 ; Random
+Network ID: M_PL_100_6_2
+Shape: (67, 33) (100)
+M_PL_100_6_2 ; Degree_Driven
+M_PL_100_6_2 ; Closeness_Driven
+M_PL_100_6_2 ; Betweenness_Driven
+M_PL_100_6_2 ; Random
+Network ID: M_PL_100_7_0
+Shape: (67, 33) (100)
+M_PL_100_7_0 ; Degree_Driven
+M_PL_100_7_0 ; Closeness_Driven
+M_PL_100_7_0 ; Betweenness_Driven
+M_PL_100_7_0 ; Random
+Network ID: M_PL_100_7_1
+Shape: (67, 33) (100)
+M_PL_100_7_1 ; Degree_Driven
+M_PL_100_7_1 ; Closeness_Driven
+M_PL_100_7_1 ; Betweenness_Driven
+M_PL_100_7_1 ; Random
+Network ID: M_PL_100_7_2
+Shape: (67, 33) (100)
+M_PL_100_7_2 ; Degree_Driven
+M_PL_100_7_2 ; Closeness_Driven
+M_PL_100_7_2 ; Betweenness_Driven
+M_PL_100_7_2 ; Random
+Network ID: M_PL_100_8_0
+Shape: (57, 43) (100)
+M_PL_100_8_0 ; Degree_Driven
+M_PL_100_8_0 ; Closeness_Driven
+M_PL_100_8_0 ; Betweenness_Driven
+M_PL_100_8_0 ; Random
+Network ID: M_PL_100_8_1
+Shape: (57, 43) (100)
+M_PL_100_8_1 ; Degree_Driven
+M_PL_100_8_1 ; Closeness_Driven
+M_PL_100_8_1 ; Betweenness_Driven
+M_PL_100_8_1 ; Random
+Network ID: M_PL_100_8_2
+Shape: (57, 43) (100)
+M_PL_100_8_2 ; Degree_Driven
+M_PL_100_8_2 ; Closeness_Driven
+M_PL_100_8_2 ; Betweenness_Driven
+M_PL_100_8_2 ; Random
+Network ID: M_PL_100_9_0
+Shape: (57, 43) (100)
+M_PL_100_9_0 ; Degree_Driven
+M_PL_100_9_0 ; Closeness_Driven
+M_PL_100_9_0 ; Betweenness_Driven
+M_PL_100_9_0 ; Random
+Network ID: M_PL_100_9_1
+Shape: (57, 43) (100)
+M_PL_100_9_1 ; Degree_Driven
+M_PL_100_9_1 ; Closeness_Driven
+M_PL_100_9_1 ; Betweenness_Driven
+M_PL_100_9_1 ; Random
+Network ID: M_PL_100_9_2
+Shape: (57, 43) (100)
+M_PL_100_9_2 ; Degree_Driven
+M_PL_100_9_2 ; Closeness_Driven
+M_PL_100_9_2 ; Betweenness_Driven
+M_PL_100_9_2 ; Random
+
+
+
+
+
+2021-02-08 10:47:40
+Network ID: M_PL_200_25_0
+Shape: (160, 40) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 9 hour: 37 min: 34 sec
+Random Restoration: .....Time passed: 9 hour: 33 min: 17 sec
+Network ID: M_PL_200_25_1
+Shape: (160, 40) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 9 hour: 34 min: 13 sec
+Random Restoration: .....Time passed: 9 hour: 36 min: 44 sec
+Network ID: M_PL_200_25_2
+Shape: (160, 40) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 10 hour: 11 min: 50 sec
+Random Restoration: .....Time passed: 9 hour: 52 min: 8 sec
+Network ID: M_PL_200_26_0
+Shape: (160, 40) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 10 hour: 48 min: 7 sec
+Random Restoration: .....Time passed: 10 hour: 23 min: 22 sec
+Network ID: M_PL_200_26_1
+Shape: (160, 40) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 10 hour: 16 min: 28 sec
+Random Restoration: .....Time passed: 10 hour: 11 min: 33 sec
+Network ID: M_PL_200_26_2
+Shape: (160, 40) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 10 hour: 51 min: 23 sec
+Random Restoration: .....Time passed: 10 hour: 28 min: 58 sec
+Network ID: M_PL_200_27_0
+Shape: (160, 40) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 10 hour: 23 min: 42 sec
+Random Restoration: .....Time passed: 11 hour: 8 min: 17 sec
+Network ID: M_PL_200_27_1
+Shape: (160, 40) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 11 hour: 5 min: 41 sec
+Random Restoration: .....Time passed: 10 hour: 38 min: 46 sec
+Network ID: M_PL_200_27_2
+Shape: (160, 40) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 10 hour: 37 min: 14 sec
+Random Restoration: .....Time passed: 10 hour: 30 min: 42 sec
+Network ID: M_PL_200_29_0
+Shape: (133, 67) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 11 hour: 48 min: 39 sec
+Random Restoration: .....Time passed: 11 hour: 44 min: 21 sec
+Network ID: M_PL_200_29_1
+Shape: (133, 67) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 12 hour: 0 min: 46 sec
+Random Restoration: .....Time passed: 11 hour: 51 min: 11 sec
+Network ID: M_PL_200_29_2
+Shape: (133, 67) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 11 hour: 52 min: 18 sec
+Random Restoration: .....Time passed: 11 hour: 38 min: 34 sec
+Network ID: M_PL_200_30_0
+Shape: (133, 67) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 12 hour: 34 min: 40 sec
+Random Restoration: .....Time passed: 12 hour: 14 min: 41 sec
+Network ID: M_PL_200_30_1
+Shape: (133, 67) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 12 hour: 0 min: 31 sec
+Random Restoration: .....Time passed: 12 hour: 43 min: 21 sec
+Network ID: M_PL_200_30_2
+Shape: (133, 67) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 12 hour: 32 min: 0 sec
+Random Restoration: .....Time passed: 12 hour: 39 min: 2 sec
+Network ID: M_PL_200_31_0
+Shape: (133, 67) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 11 hour: 51 min: 42 sec
+Random Restoration: .....Time passed: 12 hour: 39 min: 33 sec
+Network ID: M_PL_200_31_1
+Shape: (133, 67) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 12 hour: 0 min: 2 sec
+Random Restoration: .....Time passed: 12 hour: 19 min: 56 sec
+Network ID: M_PL_200_31_2
+Shape: (133, 67) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 12 hour: 24 min: 10 sec
+Random Restoration: .....Time passed: 12 hour: 33 min: 41 sec
+Network ID: M_PL_200_33_0
+Shape: (114, 86) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 11 hour: 22 min: 3 sec
+Random Restoration: .....Time passed: 11 hour: 16 min: 25 sec
+Network ID: M_PL_200_33_1
+Shape: (114, 86) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 11 hour: 33 min: 19 sec
+Random Restoration: .....Time passed: 11 hour: 19 min: 19 sec
+Network ID: M_PL_200_33_2
+Shape: (114, 86) (200)
+Ensembles Run: [0, 5]
+Key Filter: [[0, 1, 2], [2, 5, 8], [0, 2]]
+Degree Centrality Driven Restoration: .....Time passed: 11 hour: 47 min: 19 sec
